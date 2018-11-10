@@ -1,2 +1,2 @@
 # demoApp
-fun fun fun
+finished first homework for nu data science bootcamp
